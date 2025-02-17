@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 Smart Home Energy Management System')
+st.title('📌 Smart Home Energy Management System')
 
-st.write('Hello world!')
+st.info('An end-to-end pipeline using Energy data for prediction electricity demand!')
