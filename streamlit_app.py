@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('🎈 Smart Home Energy Management System')
 
 st.write('Hello world!')
